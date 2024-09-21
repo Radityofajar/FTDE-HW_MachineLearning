@@ -52,4 +52,4 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/insurance-prediction.git
+   git clone https://github.com/Radityofajar/FTDE-HW_MachineLearning.git
